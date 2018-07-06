@@ -1,0 +1,5 @@
+Expected results for test cases:
+bag0.txt 309
+bag1.txt 1458
+
+Source for test cases: https://people.sc.fsu.edu/~jburkardt/datasets/knapsack_01/knapsack_01.html
