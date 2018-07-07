@@ -2,7 +2,7 @@
 Recursive solution to knapsack problem.  Extremely slow, but works
 for problems with a very small number of possible sizes.
 """
-fname ='bag3.txt'
+fname ='bag0.txt'
 print('data from',fname)
 f = open(fname,'r')
 bagsize,numitems = map(int,f.readline().split())
